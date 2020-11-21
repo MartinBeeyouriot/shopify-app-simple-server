@@ -1,7 +1,7 @@
 {
-  "name": "io.getpaper.shopify",
+  "name": "com.martinbeeyouriot.shopify.simpleserver",
   "version": "1.0.0",
-  "description": "Getpaper shopify app",
+  "description": "Simple shopify app",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -9,11 +9,11 @@
   "author": "Martin Bee",
   "license": "ISC",
   "dependencies": {
-    "cookie": "^0.4.0",
-    "dotenv": "^8.1.0",
+    "cookie": "^0.4.1",
+    "dotenv": "^8.2.0",
     "express": "^4.17.1",
     "nonce": "^1.0.4",
-    "request": "^2.88.0",
-    "request-promise": "^4.2.4"
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6"
   }
 }
